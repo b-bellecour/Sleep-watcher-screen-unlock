@@ -8,7 +8,7 @@ while ! ping -c 1 -W 1 8.8.8.8; do
     sleep 1
 done
 
-#wait for the mac screen to be unlock
+#wait for the mac screen to be unlocked
 while :
 do
     sleep 0.5
